@@ -7,7 +7,21 @@ redirect_from:
   - /about.html
 ---
 
-Hi! Thanks for visiting my website. 
+Hi! Thanks for visiting my website :)
+
+I am a postdoctoral researcher at UCLA Anderson School of Management. 
+
+My research examines how people make judgments and decisions under resource constraints, and how environmental factors influence these processes. My work explores questions such as: 
+
+* How do individuals decide when to explore (try something new) and when to exploit (stick with what they know)? 
+* What do people perceive as a good use of time or a waste of their time? 
+* When do individuals value their time over their money, and vice versa? 
+
+Ultimately, my goals is to use my research to help individuals make informed decisions to lead more happy, meaningful, and productive lives. 
+
+Before UCLA, I received my Ph.D. in social psychology at the University of Virginia and my B.A in psychology and economics at Cornell University. 
+
+I can be reached via email at shelly [dot] tsang [at] anderson [dot] ucla [dot] edu. 
 
 
 
